@@ -1,4 +1,4 @@
-# 📓 Cyber notes
+# 📓 Cybersecurity notes
 
 * Security+ 
 

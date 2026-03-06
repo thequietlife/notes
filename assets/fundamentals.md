@@ -78,6 +78,8 @@ Every router keeps track of multiple paths for sending packets and it chooses th
 **Fault Tolerant** Having options for paths makes the network fault tolerant. The network can keep sending packets even of something goes wrong.
 <br> Basic key principle of the internet is **Reliability**.
 
+## Networking 101
+
 ### Transmission Control Protocol **TCP**
 Responsible for making sure all your data gets delivered so that your spotify songs play without glitches.
 Also referred to as **3-Way Handshake**.

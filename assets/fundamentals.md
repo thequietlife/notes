@@ -1,4 +1,5 @@
-## Networking Fundamentals
+## Part 1: How the Internet works
+## Part 2: Networking Fundamentals
 
 ### Summary
 When I type in google.com in a web browser and hit enter what happens? The way that the information goes from my web browser and gets communicated to the server at google. The OSI model is how it happens (DNS Lookup → TCP Connection (Three Way Handshake) → HTTP Request → Server Response → Rendering of the Web browser page → Displaying the page).

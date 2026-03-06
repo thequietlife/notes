@@ -3,7 +3,7 @@
 * Security+ 
 
   - 💻 [How Computers Work](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/how%20computers%20work.md)    
-  - 🍰 [Networking Fundamentals](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
+  - 🍰 [How the Internet Works + Networking 101](https://github.com/thequietlife/CTI-101/blob/ca3cadef9b37ead345df7ba0cc789fd69224e3a1/assets/networking%20fundamentals.md)
   - 📐 [Security Architecture](https://github.com/thequietlife/CTI-101/blob/8681b6029fd8e926a5290ef65bb68aaafef93436/assets/security%20architecture.md)
   - 📕 [Cybersecurity Concepts](https://github.com/thequietlife/CTI-Crash-Course/blob/2b7819a889344e539231a220c021aa4b42449392/assets/cybersecurity%20concepts.md)
   - 🦠 [Common Attack Types](https://github.com/thequietlife/CTI-101/blob/f9a1737d7bbaa49c2c89e057a155b485842478df/assets/common%20attack%20types.md)
